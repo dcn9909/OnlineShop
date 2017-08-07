@@ -1,0 +1,10 @@
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\Models.dll
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\Models.pdb
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\GIT\HUB\ASPNet\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\HUB\ASPNet\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\GIT\HUB\ASPNet\OnlineShop\Models\obj\Debug\Models.dll
+D:\GIT\HUB\ASPNet\OnlineShop\Models\obj\Debug\Models.pdb
